@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my language learning platform called Ríoverse (https://www.rioverse.app)
+- 🔭 I’m currently working on my language learning platform called Ríoverse (https://www.rioverse.app).
 - 🌱 I’m currently learning the basics of data science and machine learning with Tensorflow.
 - 👯 I’m looking to collaborate on open source projects related to language learning and NLP.
 
