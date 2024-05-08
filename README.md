@@ -12,6 +12,11 @@
 - React Native
 - Tensorflow
 
+## 📬 Get in Touch
+- Contact me on my blog via: https://tderflinger.com/contact
+- Write me on Mastodon @td8@mastodontech.de
+
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,docker,nest,aws,arduino,cloudflare,cypress,d3,fastapi,python,github,graphql,linux,raspberrypi,tailwind,vscode)](https://skillicons.dev)
 
