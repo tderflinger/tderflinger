@@ -13,7 +13,7 @@
 - Tensorflow
 
 ## 📬 Get in Touch
-- Contact me via my blog: https://tderflinger.com/contact
+- Contact me via my blog (optional audio messaging available): https://tderflinger.com/contact
 - Write me on Mastodon: @td8@mastodontech.de
 
 
