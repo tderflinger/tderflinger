@@ -13,8 +13,8 @@
 - Tensorflow
 
 ## 📬 Get in Touch
-- Contact me on my blog via: https://tderflinger.com/contact
-- Write me on Mastodon @td8@mastodontech.de
+- Contact me via my blog: https://tderflinger.com/contact
+- Write me on Mastodon: @td8@mastodontech.de
 
 
 ## Tech Stack
