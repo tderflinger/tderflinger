@@ -14,8 +14,8 @@
 
 ## Videos
 
-- See my English YouTube channel: https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw
-- También tengo un canal YouTube en español: https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg
+- See my [English YouTube channel](https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw)
+- También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
 
 ## 📬 Get in Touch
 - Contact me via my blog (optional audio messaging available): https://tderflinger.com/contact
