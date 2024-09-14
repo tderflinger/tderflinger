@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects related to language learning and NLP.
 
 ## My Articles
-- See my blog in English, French, Spanish and Mandarin Chinese: https://www.tderflinger.com
+- See my blog in English, French, Spanish, Mandarin Chinese and Greek: https://www.tderflinger.com
 
 ## Videos
 
