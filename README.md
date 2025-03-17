@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my language learning platform called Ríoverse (https://www.rioverse.app).
-- 🌱 I’m currently learning the basics of data science and machine learning with PyTorch. Also getting into the basics of electronics.
-- 👯 I’m looking to collaborate with innovative open source projects.
+- 🌱 I’m getting into basics of data science and machine learning with PyTorch. Also learning the basics of electronics.
+- 👯 I’m looking to collaborate with innovative open source projects and companies.
 
 ## My Articles
 - See my blog in English, Spanish, Spanish, Mandarin Chinese and Greek: https://www.tderflinger.com
