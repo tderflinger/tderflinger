@@ -11,9 +11,9 @@
 - También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
 
 ## 🌱 Currently Exploring
-- D3 for complex world data visualization
-- Piper TTS
-- PyTorch
+- Fitness data exchange and analytics for running sports
+- Piper TTS for voice synthesis
+- PyTorch and Ollama for AI and LLMs
 
 ## 📬 Get in Touch
 - Are you looking for an innovative software developer who helps with product innovation? Check out my LinkedIn profile: https://www.linkedin.com/in/tderflinger
