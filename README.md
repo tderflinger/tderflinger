@@ -12,7 +12,7 @@
 
 ## 🌱 Currently Exploring
 - Fitness data exchange and analytics for running sports
-- Open Source database of culinary spices ([SpiceNice](https://spicenice.pages.dev)
+- Open Source database of culinary spices ([SpiceNice](https://spicenice.pages.dev))
 - Piper TTS for voice synthesis
 - PyTorch and Ollama for AI and LLMs
 
