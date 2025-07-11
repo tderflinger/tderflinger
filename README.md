@@ -4,7 +4,11 @@
 - 👯 I’m looking to collaborate with innovative open source projects and companies.
 
 ## My Articles
-- See my blog in English, Spanish, Spanish, Mandarin Chinese and Greek: https://www.tderflinger.com
+- See my blog in English, Spanish, French, Mandarin Chinese and Greek: https://www.tderflinger.com
+
+## Interests
+
+Interested in many things, especially geography, linguistics, electronics, sports, travel, architecture, film, literature, food science.
 
 ## Videos
 - See my [English YouTube channel](https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw)
