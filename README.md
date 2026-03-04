@@ -13,7 +13,7 @@
 - See my [English YouTube channel](https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw)
 - También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
 
-## My Articles
+## Articles
 - See my blog in English, Spanish, French, Mandarin Chinese and Greek: https://www.tderflinger.com
 
 ## Interests
