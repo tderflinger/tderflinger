@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my language learning platform called Ríoverse (https://www.rioverse.app).
-- 🌱 I’m getting into the basics of data science and machine learning with PyTorch. Also learning the basics of electronics.
+- 🔭 I’m currently working on a language learning platform called Ríoverse (https://www.rioverse.app).
 - 👯 I’m looking to collaborate with innovative open source projects and companies.
+- I am looking for interesting work opportunities in the area of frontend and AI development in Europe.
 
 ## My Articles
 - See my blog in English, Spanish, French, Mandarin Chinese and Greek: https://www.tderflinger.com
@@ -15,10 +15,10 @@ Interested in many things, especially geography, linguistics, electronics, sport
 - También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
 
 ## 🌱 Currently Exploring
-- Fitness data exchange and analytics for running sports
-- Open Source database of culinary spices ([SpiceNice](https://spicenice.pages.dev))
-- Piper TTS for voice synthesis
-- PyTorch and Ollama for AI and LLMs
+- Ollama and PyTorch for AI and LLMs
+- Whisper, Voxtral for STT and Piper for voice synthesis
+- Open source mapping with MapLibre and OSM
+- Rapid software development with coding agents (like Claude Opus)
 
 ## 📬 Get in Touch
 - Are you looking for an innovative software developer who helps with product innovation? Check out my LinkedIn profile: https://www.linkedin.com/in/tderflinger
