@@ -3,22 +3,22 @@
 - 👯 I’m looking to collaborate with innovative open source projects and companies.
 - I am looking for interesting work opportunities in the area of frontend and AI development in Europe.
 
+## 🌱 Currently Exploring
+- Ollama and PyTorch for AI and LLMs
+- Whisper, Voxtral for STT and Piper for voice synthesis
+- Open source mapping with MapLibre and OSM
+- Rapid software development with coding agents (like Claude Opus)
+
+## Videos
+- See my [English YouTube channel](https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw)
+- También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
+
 ## My Articles
 - See my blog in English, Spanish, French, Mandarin Chinese and Greek: https://www.tderflinger.com
 
 ## Interests
 
 Interested in many things, especially geography, linguistics, electronics, sports, travel, architecture, film, literature, food science.
-
-## Videos
-- See my [English YouTube channel](https://www.youtube.com/channel/UCiXk5vx1TUyNasli5aKODvw)
-- También tengo un [canal YouTube en español](https://www.youtube.com/channel/UCf44KolLw0MhCj55dQ3lrZg)
-
-## 🌱 Currently Exploring
-- Ollama and PyTorch for AI and LLMs
-- Whisper, Voxtral for STT and Piper for voice synthesis
-- Open source mapping with MapLibre and OSM
-- Rapid software development with coding agents (like Claude Opus)
 
 ## 📬 Get in Touch
 - Are you looking for an innovative software developer who helps with product innovation? Check out my LinkedIn profile: https://www.linkedin.com/in/tderflinger
