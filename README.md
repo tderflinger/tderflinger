@@ -26,7 +26,7 @@ Interested in many things, especially geography, linguistics, electronics, sport
 - Write me on Mastodon: @td8@mastodontech.de
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,docker,nest,aws,arduino,cloudflare,cypress,d3,fastapi,python,github,graphql,linux,raspberrypi,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,docker,nest,aws,arduino,cloudflare,cypress,d3,fastapi,python,github,graphql,linux,raspberrypi,tailwind,pytorch)](https://skillicons.dev)
 
 <!--
 **tderflinger/tderflinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
